@@ -7,3 +7,5 @@
 
 
 2019-10-17 16:16:24 新增 读取socket(模拟kafka输入)
+
+只提供调试好的源码,详细步骤可以参考这个博主博客:https://www.cnblogs.com/cerofang/p/11327036.html
